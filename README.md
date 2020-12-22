@@ -3,7 +3,6 @@
 ![Generic badge](https://img.shields.io/badge/CE_Mark-NO-critical.svg)
 ![GitHub release](https://img.shields.io/github/release/orthopus/0102-myocoach-diy)
 
-[TOC]
 
 **🚧 WORK IN PROGRESS 🚧** 
 
@@ -44,17 +43,6 @@ ORTHOPUS cannot guarantee the “quality” of solutions replicated by third par
 Come back soon to find steps to follow to make your own !
 
 
-### Contribution
-Your contribution to this project is welcome!
-
-* Have you discovered a bug or you have an improvement ideas ?
-  * Go to the GitHub [issues](https://github.com/orthopus/0102-myocoach-diy/issues) of the project.
-* You have time, some Maker skills and you want to help us ?
-  * Read the [CONTRIBUTING](CONTRIBUTING.md) file to help us to upgrade this project
-  * Read the [CODEOFCONDUCT](CODEOFCONDUCT.md) file to know community standards
-
-
-
 ## TOOL HOLDER 3D PRINTER
 
 *Content in WIP* 
@@ -64,23 +52,20 @@ Your contribution to this project is welcome!
 **Required devices** : 
 
 
-
 ### How to make your own
 
 Come back soon to find steps to follow to make your own.
 
 
+## CONTRIBUTION
 
-### Contribution
-
-Your contribution to this project is welcome!
+Your contribution to these projects is welcome!
 
 * Have you discovered a bug or you have an improvement ideas ?
-  * Go to the GitHub [issues](https://github.com/orthopus/0102-myocoach-diy/issues) of the project.
+  * Go to the GitHub [issues](https://github.com/orthopus/01-wrist/issues) of the project.
 * You have time, some Maker skills and you want to help us ?
   * Read the [CONTRIBUTING](CONTRIBUTING.md) file to help us to upgrade this project
   * Read the [CODEOFCONDUCT](CODEOFCONDUCT.md) file to know community standards
-
 
 
 ## CONTACT
