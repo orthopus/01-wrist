@@ -1,8 +1,6 @@
 # 01-wrist
 
 ![Generic badge](https://img.shields.io/badge/CE_Mark-NO-critical.svg)
-![GitHub release](https://img.shields.io/github/release/orthopus/0102-myocoach-diy)
-
 
 **🚧 WORK IN PROGRESS 🚧** 
 
@@ -14,7 +12,7 @@ We are currently working on updating this repository.
 
 This repository contents documentation of : 
 
-- **the Universal Wrist** : a mechanical wrist who fits into a socket for quick connection-disconnection of different terminal devices such as the ORTHOPUS Work hook or the Articulated Hand.
+- **the Universal Wrist** : a mechanical wrist and his mechanical tool-holder. The wrist fits into a socket for quick connection-disconnection of different terminal devices such as the [ORTHOPUS Work Hook or the Aesthetic Hand](https://orthopus.com/en/upper-limb-prosthetics/).
 - **tool holders** : compatible with the ORTHOPUS Universal Wrist. For now you can already find a 3D printer version. 
 
 
