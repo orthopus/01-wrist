@@ -1,7 +1,8 @@
 # Tool holder 3D printer : Making Manual
 
 
-![3D-toolholder_ORTHOPUS_CAO](../../assets/3D-toolholder_ORTHOPUS_CAO.png)
+
+![IMG-210115-ExportCAO_3DToolholder](../../assets/IMG-210115-ExportCAO_3DToolholder.png)
 
 In this manual, you will find all the resources to design the Tool Holder 3D printer. 
 

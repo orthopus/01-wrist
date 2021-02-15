@@ -31,7 +31,7 @@ ORTHOPUS cannot guarantee the “quality” of solutions replicated by third par
 
 
 
-![3D-toolholder_ORTHOPUS_CAO](assets/3D-toolholder_ORTHOPUS_CAO.png)
+![IMG-210115-ExportCAO_3DToolholder](assets/IMG-210115-ExportCAO_3DToolholder.png)
 
 ### D.I.Y Level **⭐⭐**
 
@@ -41,7 +41,7 @@ ORTHOPUS cannot guarantee the “quality” of solutions replicated by third par
 
 You can manufacture the Toll holder for less than 5€ : more details in the upcoming *COSTS* file.
 
-To make your own Tool Holder 3D printer, follow the **[making manual](./docs/tool-holder-3D-printer/ToolHolder_3D_making-manual.md)****.
+To make your own Tool Holder 3D printer, follow the **[making manual](./docs/tool-holder-3D-printer/ToolHolder_3D_making-manual.md)**.
 
 
 
