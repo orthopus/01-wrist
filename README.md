@@ -1,12 +1,10 @@
-# 01Universal wrist & Tools holders
+# Universal wrist & Tools holders
 
 ![Generic badge](https://img.shields.io/badge/CE_Mark-NO-critical.svg)
 
 **🚧 WORK IN PROGRESS 🚧** 
 
 *We are currently working on updating this repository.*
-
-
 
 This repository contents documentation of : 
 
@@ -24,24 +22,26 @@ ORTHOPUS cannot guarantee the “quality” of solutions replicated by third par
 
 ## UNIVERSAL WRIST
 
-*Content in WIP* 
+![UniversalWrist_ORTHOPUS](assets/UniversalWrist_ORTHOPUS.JPG)
 
-Come back soon to find steps to follow to make your own !
-
-
+*Come back soon to find steps to follow to make your own!*
 
 
 ## TOOL HOLDER 3D PRINTER
 
+
+
+![3D-toolholder_ORTHOPUS_CAO](assets/3D-toolholder_ORTHOPUS_CAO.png)
+
 ### D.I.Y Level **⭐⭐**
 
-**Required devices:** To make your own Tool Holder, we will need a 3D printer, a grinder machine or a metal file, and some basics screws (you will find a detailed list of equipment in the **making manual**)
+**Required devices:** To make your own Tool Holder, we will need a 3D printer, a grinder machine or a metal file, and some basics screws (you will find a detailed list of equipment in the **[making manual](./docs/tool-holder-3D-printer/ToolHolder_3D_making-manual.md)**
 
-**How to make your own :** We give more details about how to get the best experiences with the **Tool Holder** in the *user manual***.**
+**How to make your own :** We will give more details about how to get the best experiences with the **Tool Holder** in the *user manual* (upcoming file)**.**
 
-You can manufacture the Toll holder for less than 5€ : more details in the *COSTS* file.
+You can manufacture the Toll holder for less than 5€ : more details in the upcoming *COSTS* file.
 
-To make your own Tool Holder 3D printer, follow the **Making Manual**.
+To make your own Tool Holder 3D printer, follow the **[making manual](./docs/tool-holder-3D-printer/ToolHolder_3D_making-manual.md)****.
 
 
 
