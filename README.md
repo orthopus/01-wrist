@@ -39,7 +39,7 @@ ORTHOPUS cannot guarantee the “quality” of solutions replicated by third par
 
 **How to make your own :** We will give more details about how to get the best experiences with the **Tool Holder** in the *user manual* (upcoming file)**.**
 
-You can manufacture the Toll holder for less than 5€ : more details in the upcoming *COSTS* file.
+You can manufacture the Toll holder for less than 1€ : more details in the upcoming *COSTS* file.
 
 To make your own Tool Holder 3D printer, follow the **[making manual](./docs/tool-holder-3D-printer/ToolHolder_3D_making-manual.md)**.
 

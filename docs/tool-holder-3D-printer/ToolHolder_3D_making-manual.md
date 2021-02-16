@@ -41,7 +41,7 @@ Following parameter were used:
 
 - Layer height: 0.15 mm
 
-- Infill density: 30%
+- Infill density: 50%
 
 - Print speed: 50 mm/s
 
