@@ -1,6 +1,6 @@
 # Universal Wrist : Making Manual
 
-![UniversalWrist_ORTHOPUS](assets/UniversalWrist_ORTHOPUS.JPG)
+![UniversalWrist_ORTHOPUS](../assets/UniversalWrist_ORTHOPUS.JPG)
 
 In this manual you will find information to help you understand in details how is made the ORTHOPUS Universal Wrist so you can make it yourself (modern machine shop workstations required), directly with a manufacturer or simply repair/upgrade it yourself.
 
@@ -8,7 +8,7 @@ In this manual you will find information to help you understand in details how i
 
 On the following picture, you can find an exploded view showing all the parts of the Universal Wrist. In the table, links allow you to find where components can be purchased or, for the machined or injected ones, where we are manufacturing them.
 
-![Universal Wrist_ORTHOPUS BoM](../assets/ILL-0109-BoM GitHub.png)
+![ILL-0109-BoM GitHub](../assets/ILL-0109-BoM GitHub.png)
 
 ### **Manufacturing**
 
