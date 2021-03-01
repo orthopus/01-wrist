@@ -8,7 +8,7 @@ In this manual you will find information to help you understand in details how i
 
 On the following picture, you can find an exploded view showing all the parts of the Universal Wrist. In the table, links allow you to find where components can be purchased or, for the machined or injected ones, where we are manufacturing them.
 
-![ILL-0109-BoM GitHub](../assets/ILL-0109-BoM GitHub.png)
+![ILL-0109-BomGithub](../assets/ILL-0109-BomGithub.png)
 
 ### **Manufacturing**
 
