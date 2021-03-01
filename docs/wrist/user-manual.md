@@ -1,2 +1,0 @@
-# Wrist : User Manual
-
