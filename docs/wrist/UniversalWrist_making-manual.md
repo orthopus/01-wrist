@@ -16,5 +16,16 @@ Manufacturing the Universal Wrist requires advanced knowledge and machinery such
 
 ORTHOPUS has chosen [Menetou Mécanique](https://www.menetoumecanique.com/) to manufacture in France 100% of its Universal Wrist.
 
-### **Assemblly**
+### **Assembly**
 
+**List of required equipment**
+
+- A 0.5 flat screwdriver
+- A 0.8 flat screwdriver
+- Threadlocking adhesive 
+
+**Instructions**
+
+With the picture below, you should be able to fully assemble or disassemble the Universal Wrist. To screw the smallest M2 screws (step 7), please use a 0.5 flat screwdriver and for the biggest M3 ones (step 9) a 0.8 flat screwdriver. Please use threadlocking adhesive to lock the screws when you are screwing them (steps 2, 7, 9, 10, 11).
+
+![ILL-0109- AssemblyInstructions.pdf](../../assets/ILL-0109- AssemblyInstructions.pdf)
