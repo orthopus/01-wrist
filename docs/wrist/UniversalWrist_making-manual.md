@@ -6,7 +6,7 @@ In this manual you will find information to help you understand in details how i
 
 ### **List of parts**
 
-On the following picture, you can find an exploded view showing all the parts of the Universal Wrist. In the table, links allow you to find where components can be purchased or, for the machined or injected ones, where we are manufacturing them.
+On the following picture, you can find an exploded view showing all the parts of the Universal Wrist. In the table, links allow you to find where components can be purchased or, for the machined or injected ones, where we are manufacturing them. You can download the Bill of Material stored [here](https://github.com/orthopus/01-wrist/blob/main/src/Wrist/ILL-0109-BoMGitHub.pdf) to get clickable links.
 
 ![ILL-0109-BomGithub](../../assets/ILL-0109-BomGithub.png)
 
