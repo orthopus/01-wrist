@@ -22,7 +22,7 @@ ORTHOPUS cannot guarantee the “quality” of solutions replicated by third par
 
 ## UNIVERSAL WRIST
 
-![UniversalWrist_ORTHOPUS](assets/UniversalWrist_ORTHOPUS.JPG)
+![UniversalWrist_ORTHOPUS](assets/Universal-Wrist_ORTHOPUS.JPG)
 
 ### D.I.Y Level **⭐⭐⭐⭐⭐**
 
@@ -33,6 +33,7 @@ ORTHOPUS cannot guarantee the “quality” of solutions replicated by third par
 ![ILL-0109-BomGithub](assets/ILL-0109-BomGithub.png)
 
 To make your own Universal wrist, follow the **[making manual](./docs/wrist/UniversalWrist_making-manual.md)**.
+
 
 
 ## TOOL HOLDER 3D PRINTED
