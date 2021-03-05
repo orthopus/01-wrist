@@ -1,13 +1,19 @@
 # Universal wrist & Tools holders
 
-![Generic badge](https://img.shields.io/badge/CE_Mark-NO-critical.svg)
-
 This repository contents documentation of : 
 
 - **The Universal Wrist** : a mechanical wrist and his mechanical tool-holder. The wrist fits into a socket for quick connection-disconnection of different terminal devices such as the [ORTHOPUS Work Hook or the Aesthetic Hand](https://orthopus.com/en/upper-limb-prosthetics/).
+
+  ![Generic badge](https://img.shields.io/badge/CE_Mark-NO-critical.svg)
+  ![GitHub release](https://img.shields.io/badge/release-v1.0-blue)
+
+  
+
 - **Tool holders** : compatible with the ORTHOPUS Universal Wrist. For now you can already find a 3D printer version. 
+  ![Generic badge](https://img.shields.io/badge/version-DIY-yellow.svg)
+  ![Generic badge](https://img.shields.io/badge/CE_Mark-NO-critical.svg)
 
-
+  
 
 ## WARNING NOTICE BEFORE STARTING
 
