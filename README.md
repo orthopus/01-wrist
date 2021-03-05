@@ -2,10 +2,6 @@
 
 ![Generic badge](https://img.shields.io/badge/CE_Mark-NO-critical.svg)
 
-**🚧 WORK IN PROGRESS 🚧** 
-
-*We are currently working on updating this repository.*
-
 This repository contents documentation of : 
 
 - **The Universal Wrist** : a mechanical wrist and his mechanical tool-holder. The wrist fits into a socket for quick connection-disconnection of different terminal devices such as the [ORTHOPUS Work Hook or the Aesthetic Hand](https://orthopus.com/en/upper-limb-prosthetics/).
