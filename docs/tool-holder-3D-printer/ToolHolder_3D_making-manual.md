@@ -27,6 +27,9 @@ For each tool, such as [the pick or tennis ball holders](https://github.com/orth
 - Drill or screwdriver and drill bits
 - An Allen key (size 6)
 
+You can download ***the Bill of Material stored [here](https://github.com/orthopus/01-wrist/blob/main/src/Tool-holder%203D%20print/ILL-0109-DIYAttachementPlateBoM.pdf) to get clickable links***.
+
+![ILL-0109-DIYAttachementPlateBoM](../../assets/ILL-0109-DIYAttachementPlateBoM.jpg)
 
 
 ### **The 3D Printed Body**

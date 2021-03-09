@@ -32,14 +32,12 @@ ORTHOPUS cannot guarantee the “quality” of solutions replicated by third par
 
 **How to make your own:** The Bill of Material shown below and available with clickable links [here](https://github.com/orthopus/01-wrist/blob/main/src/Wrist/ILL-0109-BoMGitHub.pdf) details standard components as well as parts that need to be machined.
 
-![ILL-0109-BomGithub](assets/ILL-0109-BomGithub.png)
+[![ILL-0109-BomGithub](assets/ILL-0109-BomGithub.png)](https://github.com/orthopus/01-wrist/blob/main/src/Wrist/ILL-0109-BoMGitHub.pdf)
 
 To make your own Universal wrist, follow the **[making manual](./docs/wrist/UniversalWrist_making-manual.md)**.
 
 
-
 ## TOOL HOLDER 3D PRINTED
-
 
 
 ![IMG-210115-ExportCAO_3DToolholder](assets/IMG-210115-ExportCAO_3DToolholder.png)
@@ -52,7 +50,7 @@ To make your own Universal wrist, follow the **[making manual](./docs/wrist/Univ
 
 You can make the Tool holder for less than 1€ : more details in the Bill of Material shown below and available with clickable links [here](https://github.com/orthopus/01-wrist/blob/main/src/Tool-holder%203D%20print/ILL-0109-DIYAttachementPlateBoM.pdf).
 
-![ILL-0109-DIYAttachementPlateBoM](assets/ILL-0109-DIYAttachementPlateBoM.jpg)
+[![ILL-0109-DIYAttachementPlateBoM](assets/ILL-0109-DIYAttachementPlateBoM.jpg)](https://github.com/orthopus/01-wrist/blob/main/src/Tool-holder%203D%20print/ILL-0109-DIYAttachementPlateBoM.pdf)
 
 To make your own Tool Holder 3D printer, follow the **[making manual](./docs/tool-holder-3D-printer/ToolHolder_3D_making-manual.md)**.
 
