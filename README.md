@@ -13,8 +13,8 @@ This repository contents documentation of :
 
   
 
-> #### WARNING NOTICE BEFORE STARTING
-The versions of our solutions reproduced in Do It Yourself do not have the CE marking. It can only be apply to solutions developed and sold by ORTHOPUS which follow the regulations in force. ORTHOPUS cannot guarantee the “quality” of solutions replicated by third parties thanks to documentation shared on github.
+>#### WARNING NOTICE BEFORE STARTING
+>The versions of our solutions reproduced in Do It Yourself do not have the CE marking. It can only be apply to solutions developed and sold by ORTHOPUS which follow the regulations in force. ORTHOPUS cannot guarantee the “quality” of solutions replicated by third parties thanks to documentation shared on github.
 
 
 
