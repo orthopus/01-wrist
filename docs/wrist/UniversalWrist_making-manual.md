@@ -12,6 +12,10 @@ On the following picture, you can find an exploded view showing all the parts of
 
 ### **Manufacturing**
 
+[![Universal_Wrist_Fusion360viewer](../../assets/Universal_Wrist_Fusion360viewer.png)](https://orthopus8.autodesk360.com/g/shares/SH919a0QTf3c32634dcf53115fb3b05c0f27)
+
+🧐 *Tip : open the image in a new tab to view the Tennis Ball Holder in Fusion 360 viewer*
+
 Manufacturing the Universal Wrist requires advanced knowledge and machinery such as lathe, milling and drilling machines, etc... However, if you have all the required machinery, with the .STEP files [available here](https://github.com/orthopus/01-wrist/blob/main/src/Wrist/WRIST-210122.step) and the drawings [available here](https://github.com/orthopus/01-wrist/blob/main/src/Wrist/DRW-0109-1xxx-Wrist_Drawing_B.pdf) of the Universal Wrist, you should be able to make your own.
 
 ORTHOPUS has chosen [Menetou Mécanique](https://www.menetoumecanique.com/) to manufacture in France 100% of its Universal Wrist.
