@@ -31,7 +31,7 @@ To make your own Universal Wrist, you will need advanced workshop machinery and 
 
 The Bill of Material shown below is downloadable with clickable links [here](https://github.com/orthopus/01-wrist/blob/main/src/Wrist/ILL-0109-BoMGitHub.pdf) details standard components as well as parts that need to be machined.
 
-[![ILL-0109-BomGithub](assets/ILL-0109-BomGithub.png)](https://github.com/orthopus/01-wrist/blob/main/src/Wrist/ILL-0109-BoMGitHub.pdf)
+[![ILL-0109-BomGithub](assets/ILL-0109-BoMGitHub.png)](https://github.com/orthopus/01-wrist/blob/main/src/Wrist/ILL-0109-BoMGitHub.pdf)
 
 
 To get the best experiences with the **Universal Wrist**, full product details are provided in the [INSTRUCTIONS FOR USE](https://orthopus.com/wp-content/uploads/2021/06/IFU-OR-0109-Universal-Wrist-ORTHOPUS-Instructions-For-Use.pdf).
